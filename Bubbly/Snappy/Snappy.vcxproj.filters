@@ -14,22 +14,11 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="src">
-      <UniqueIdentifier>{54d1e1c5-3a1b-4fc3-a11a-42bc06456b27}</UniqueIdentifier>
+      <UniqueIdentifier>{32426f3b-e4d3-46a5-91fb-e59a3535b24e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\BubblyCore\Core.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Bubbly.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\BubblyCore\Appl.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\BubblyCore\Appl.cpp">
+    <ClCompile Include="src\SnappySource.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
