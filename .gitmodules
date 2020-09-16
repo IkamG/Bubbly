@@ -1,0 +1,3 @@
+[submodule "Bubbly/Bubbly/vendor/spdlog"]
+	path = Bubbly/Bubbly/vendor/spdlog
+	url = https://github.com/gabime/spdlog
